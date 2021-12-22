@@ -1,0 +1,13 @@
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.entityFrm.resources
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+d:\belgeler\visual studio 2015\Projects\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
